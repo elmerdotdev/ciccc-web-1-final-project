@@ -19,7 +19,7 @@ Goal: Create a responsive Beauty website using the provided Figma mockup.
 
 - **MAKE UP 101**: `All Classes` button doesn't need to work.
 - **DIY Beauty Corner**: Clicking on the thumbnails should open a video in a modal popup. You can use any video from YouTube. On smaller screens, the thumbnails become a slider.
-- **LET'S TALK**: This section will be similar to the functionality of the `Contact` page.
+- **LET'S TALK**: Clicking on the submit button should submit the form using JavaScript. Check out (EmailJS)[https://www.emailjs.com/] on how to implement this.
 
 ### Portfolio
 
